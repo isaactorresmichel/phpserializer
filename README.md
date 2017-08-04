@@ -12,7 +12,7 @@ $sd_factory = new isaactorresmichel\serdes\SerializerFactory();
 $data = $sd_factory->getSerializer()->serialize("Hello World!");
 
 $success = false;
-echo $sd_factory->getSerializer()->unserialize($data, $success);
+$data = $sd_factory->getSerializer()->unserialize($data, $success);
 
 if($success){
     echo "Unserialize was successful: {$data}";
