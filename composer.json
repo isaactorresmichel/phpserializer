@@ -1,0 +1,22 @@
+{
+    "name": "isaactorresmichel/serdes",
+    "description": "PHP Serializer is a Factory to get a SerDes class optimized for your PHP installation. Credits on original idea to https://www.drupal.org/project/couchbasedrupal",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "authors": [{
+            "name": "Isaac Torres",
+            "homepage": "https://github.com/isaactorresmichel"
+        },
+        {
+            "name": "David Garcia",
+            "homepage": "https://github.com/david-garcia-garcia"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "isaactorresmichel\\serdes\\": "src/"
+        }
+    }
+}
