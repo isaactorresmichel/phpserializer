@@ -1,5 +1,5 @@
 {
-    "name": "isaactorresmichel/serdes",
+    "name": "isaactorresmichel/phpserializer",
     "description": "PHP Serializer is a Factory to get a SerDes class optimized for your PHP installation. Credits on original idea to https://www.drupal.org/project/couchbasedrupal",
     "type": "library",
     "license": "MIT",
