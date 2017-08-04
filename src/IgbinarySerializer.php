@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\couchbasedrupal;
+namespace isaactorresmichel\serdes;
 
 /**
  * Serializer that properly deals with
