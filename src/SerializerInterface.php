@@ -1,6 +1,6 @@
 <?php
 
-namespace isaactorresmichel\serdes;
+namespace isaactorresmichel\phpserializer;
 
 interface SerializerInterface {
 

@@ -7,7 +7,7 @@ PHP Serializer is a Factory to get a SerDes class optimized for your PHP install
 
 include 'vendor/autoload.php';
 
-$sd_factory = new isaactorresmichel\serdes\SerializerFactory();
+$sd_factory = new isaactorresmichel\phpserializer\SerializerFactory();
 
 $data = $sd_factory->getSerializer()->serialize("Hello World!");
 
