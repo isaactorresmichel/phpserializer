@@ -1,5 +1,6 @@
 # PHP Serializer
 
+[![Latest Stable Version](https://poser.pugx.org/isaactorresmichel/phpserializer/v/stable)](https://packagist.org/packages/isaactorresmichel/phpserializer)
 [![Build Status](https://travis-ci.org/isaactorresmichel/phpserializer.svg?branch=master)](https://travis-ci.org/isaactorresmichel/phpserializer)
 
 PHP Serializer is a Factory to get a SerDes class optimized for your PHP installation.
