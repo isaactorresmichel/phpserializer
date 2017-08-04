@@ -1,4 +1,4 @@
-# PHP SerDes
+# PHP Serializer
 
 PHP Serializer is a Factory to get a SerDes class optimized for your PHP installation.
 
