@@ -1,5 +1,7 @@
 # PHP Serializer
 
+[![Build Status](https://travis-ci.org/isaactorresmichel/phpserializer.svg?branch=master)](https://travis-ci.org/isaactorresmichel/phpserializer)
+
 PHP Serializer is a Factory to get a SerDes class optimized for your PHP installation.
 
 ```php
