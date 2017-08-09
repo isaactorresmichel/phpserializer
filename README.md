@@ -4,7 +4,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/isaactorresmichel/phpserializer.svg)](https://github.com/isaactorresmichel/phpserializer/network)
 [![GitHub stars](https://img.shields.io/github/stars/isaactorresmichel/phpserializer.svg)](https://github.com/isaactorresmichel/phpserializer/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/isaactorresmichel/phpserializer/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/isaactorresmichel/phpserializer.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 PHP Serializer is a Factory to get a SerDes class optimized for your PHP installation.
